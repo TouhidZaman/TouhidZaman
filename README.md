@@ -1,5 +1,5 @@
 # Muhammad Touhiduzzaman
-Hi there 👋. Myself Muhammad Touhiduzzaman. I'm a MERN Stack Web Developer, and currently working as a software engineer at Stitchworks  Software  Pvt Ltd - India. I consider myself a dedicated developer who enjoys coding and developing various web applications using modern technologies. I'm a quick learner who loves to learn and explore new things. I also love to solve various programming-related problems.
+Greetings! 👋 I'm Muhammad Touhiduzzaman, a passionate MERN Stack developer specializing in React and Next.js. Presently, I thrive as a Frontend Engineer at Akaar IT Limited. With a strong commitment to my craft, I find genuine joy in crafting diverse web applications using cutting-edge technologies. An avid learner at heart, I relish acquiring new skills and delving into uncharted territories. I'm equally enamored with tackling intricate programming challenges, making problem-solving a cherished endeavor of mine.
 
 ### Get in touch
 
